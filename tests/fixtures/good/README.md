@@ -1,0 +1,1 @@
+captures photos from your camera
